@@ -5,7 +5,6 @@
 **  Description:    Simple V-Card generator.
 **
 **  Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
-**
 *****************************************************************************/
 
 #include <iostream>
