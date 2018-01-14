@@ -4,7 +4,6 @@
 #   make clean
 #   make
 #  Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
-#               All Rights Reserved.
 #
 ################################################################
 
